@@ -1,0 +1,106 @@
+h1{
+    font-size: 550%;
+    margin-top: 15%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 130%;
+}
+.subtitle{
+    font-family: Optima, Cambria, Didot, Garamond, Cochin, serif;
+    font-size: 100%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    color: #666666;
+    line-height: 170%;
+}
+.subtitle2{
+    font-family: Optima, Cambria, Didot, Garamond, Cochin, serif;
+    font-size: 120%;
+    text-align: center;
+    margin-top: 2%;
+    color: #666666;   
+    }
+body {
+    margin: 10%;
+    padding: 0;
+    
+  }
+  .centerPhoto {
+    display: block;
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+  }
+.rAlignIntro {
+    text-align: right;
+    line-height: 250%;
+    font-size: 260%;
+    font-weight: bold;
+    margin-top: 7%;
+    font-family: Optima, Cambria, Didot, Garamond, Cochin, serif;
+
+}
+.outro{
+    line-height: 250%;
+    font-size: 260%;
+    font-weight: bold;
+    margin-top: -2%;
+    margin-bottom: 5%;
+    font-family: Optima, Cambria, Didot, Garamond, Cochin, serif; 
+}
+.commentary {
+    color: #666666; 
+    font-style: italic;
+}
+
+.basicTxt {
+    margin-top: 10%;
+    font-size: 150%;
+    font-family: Optima, Cambria, Didot, Garamond, Cochin, serif;
+    line-height: 300%;
+
+}
+.emphasis {
+    font-size: 175%;
+    
+    display: inline;
+    transform: rotate(-5deg);
+}
+
+.emphasis2 {
+    font-size: 150%;
+    font-family: Apple Chancery;
+    letter-spacing: 1px;
+    display: inline;
+
+}
+
+.emphasis3 {
+    font-size: 125%;
+    font-style:italic;
+    display: inline;
+}
+
+.tab1{
+    tab-size: 8;
+}
+
+.artificial{
+    font-family:'Courier New', Courier, monospace;
+    display: inline;
+}
+.rAlign{
+    text-align: right;
+}
+.spaced{
+    letter-spacing: 3px;
+    font-size: 80%;
+}
+.skinny{
+    margin-left:20%;
+    margin-right:20%;
+    
+    border-style: groove;
+    padding:3%;
+}
