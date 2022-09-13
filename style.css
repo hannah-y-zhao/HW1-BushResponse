@@ -52,6 +52,12 @@ body {
 .commentary {
     color: #666666; 
     font-style: italic;
+    margin-left: 20%;
+    margin-right:20%;
+    font-size: 130%;
+    line-height: 220%;
+    font-family: Optima, Cambria, Didot, Garamond, Cochin, serif; 
+
 }
 
 .basicTxt {
